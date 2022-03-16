@@ -47,7 +47,7 @@ def update_output(
             \n
             Today, every student has a computer small enough to fit into his {input1}. \n
             He can solve any math problem by simply pushing the computer's little {input2}. \n
-            Computers can add, multiple, divide, and {input3}. \n
+            Computers can add, multiply, divide, and {input3}. \n
             They can also {input4} better than humans. \n
             Some computers are {input5}. \n
             Others have {str_6} screen that shows all kinds of {input7} and {input8} figures.
